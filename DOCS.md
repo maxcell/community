@@ -8,7 +8,6 @@
 - [Import / Export](#import--export)
 - [External JavaScript libraries](#external-javascript-libraries)
 - [HTML and JS limitations](#html-and-js-limitations)
-- [Embedding](#embedding)
 
 # Do a recording
 
